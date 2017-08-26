@@ -15,12 +15,12 @@ import com.bp.wei.model.Member;
 import com.bp.wei.model.MemberToFollower;
 import com.bp.wei.model.Memberinfo;
 import com.bp.wei.model.MemberinfoWithBLOBs;
-import com.bp.wei.service.SeedProjectService;
+import com.bp.wei.service.ContactUSService;
 
 @Service
-public class SeedProjectServiceImpl implements SeedProjectService {
+public class ContactUSServiceImpl implements ContactUSService {
 	
-	public static Logger log = LoggerFactory.getLogger(SeedProjectService.class);
+	public static Logger log = LoggerFactory.getLogger(ContactUSService.class);
 	
 	
 	@Resource

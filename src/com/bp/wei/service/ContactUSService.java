@@ -6,7 +6,7 @@ import com.bp.wei.model.Member;
 import com.bp.wei.model.Memberinfo;
 import com.bp.wei.model.MemberinfoWithBLOBs;
 
-public interface SeedProjectService {
+public interface ContactUSService {
 	
 	///////////////////for follower
 	//search myfollower
